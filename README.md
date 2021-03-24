@@ -1,10 +1,10 @@
 <h3 align="center">
-NEWZAPP
+SocialApp
 </h3>
 
 <p align="center">
     
-Stay Updated ! <br />
+Stay Connected ! <br />
 </p>
 </p>
 
@@ -48,12 +48,7 @@ Table Of Contents
 About The Project
 -----------------
 
-NEWZAPP helps users to stay updated with latest news. Live news data is
-fetched from [NewsAPI](https://newsapi.org/). Users can also search for
-the topic to get corresponding news feeds.
-[Retrofit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects)
-library was used along with [Picasso](https://square.github.io/picasso/)
-to fetch and display data.
+SocialApp is ....
 
 ### Built With
 
