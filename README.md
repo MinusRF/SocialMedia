@@ -27,9 +27,7 @@ Table Of Contents
 </li>
       </ul>
     </li>
-    <li>
 
-</li>
     <li>
 <a href="#contributing">Contributing</a>
 </li> 
