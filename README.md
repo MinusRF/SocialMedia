@@ -28,8 +28,7 @@ Table Of Contents
       </ul>
     </li>
     <li>
-      
-<a href="#getting-started">Getting Started</a>
+
 </li>
     <li>
 <a href="#contributing">Contributing</a>
@@ -47,14 +46,14 @@ Table Of Contents
 About The Project
 -----------------
 
-SocialApp allows.....
+SocialApp allows users to make some posts and share them with others. Users can also react to other user's post. MVVM architecture was used to build this app. 
 
 ### Built With
 
 -   Android SDK v26
 -   Android Build Tools v30.0.5
 
-### Dem
+### Demo
  
  <table>
   <tr>
@@ -64,13 +63,7 @@ SocialApp allows.....
   </tr>
  </table>
 
-<!-- GETTING STARTED -->
-Getting Started
----------------
 
-- Download the repository
-- Login to [NewsAPI](https://newsapi.org/) to get your own API key
-- Add your API key inside MainActivity.java
 
 <!-- CONTRIBUTING -->
 Contributing
@@ -94,7 +87,7 @@ Contact
 Rajat Bansal - [@Email](rajatbansal16111998@gamil.com) -
 [@LinkedIn](https://www.linkedin.com/in/rajat-bansal-829535170)
 
-Project Link: <https://github.com/MinusRF/NewsApp>
+Project Link: <https://github.com/MinusRF/SocialMedia>
 
 References
 ----------
